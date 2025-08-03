@@ -18,12 +18,19 @@ Bu proje, **makine öğrenimi** algoritmaları kullanarak anomali tespiti üzeri
 ### Anomali Tespiti Proje İçeriği
 
 ✅ Veri Setinin Yüklenmesi ve İlk İnceleme
+
 ✅ Veri Setinin Hazırlanması (Gereksiz Sütunların Çıkarılması)
+
 ✅ Veri Setinin Görselleştirilmesi
+
 ✅ Kümeleme Yöntemiyle Anomali Tespiti
+
 ✅ K-Means Algoritmasının Uygulanması ve Sonuçların Değerlendirilmesi
+
 ✅ DBSCAN Algoritmasının Uygulanması ve Sonuçların Değerlendirilmesi
+
 ✅ Kümeleme Sonuçlarının Görselleştirilmesi
+
 ✅ Algoritmaların Karşılaştırılması ve Yorumlanması
 
 

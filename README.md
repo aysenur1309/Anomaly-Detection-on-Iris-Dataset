@@ -15,6 +15,18 @@ Petal Uzunluk (cm).
 
 Bu proje, **makine öğrenimi** algoritmaları kullanarak anomali tespiti üzerine bir çalışma sunmaktadır. Projede, yaygın olarak kullanılan kümeleme yöntemlerinden **K-Means** ve **DBSCAN algoritmaları** kullanılarak veri setindeki aykırı değerler belirlenmiştir.
 
+### Anomali Tespiti Proje İçeriği
+
+✅ Veri Setinin Yüklenmesi ve İlk İnceleme
+✅ Veri Setinin Hazırlanması (Gereksiz Sütunların Çıkarılması)
+✅ Veri Setinin Görselleştirilmesi
+✅ Kümeleme Yöntemiyle Anomali Tespiti
+✅ K-Means Algoritmasının Uygulanması ve Sonuçların Değerlendirilmesi
+✅ DBSCAN Algoritmasının Uygulanması ve Sonuçların Değerlendirilmesi
+✅ Kümeleme Sonuçlarının Görselleştirilmesi
+✅ Algoritmaların Karşılaştırılması ve Yorumlanması
+
+
 ### Kullanılan Teknolojiler
 
 - **Python**: Projenin temel programlama dilidir.

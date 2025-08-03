@@ -34,5 +34,5 @@ Bu proje, **makine öğrenimi** algoritmaları kullanarak anomali tespiti üzeri
   ### Projeyi Çalıştırmak İçin
 
   ```bash
-    jupyter notebook .Anomaly.ipynb
+    jupyter notebook Anomaly.ipynb
     ```

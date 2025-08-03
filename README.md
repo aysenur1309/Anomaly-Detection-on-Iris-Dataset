@@ -28,6 +28,9 @@ Bu proje, **makine öğrenimi** algoritmaları kullanarak anomali tespiti üzeri
   ```bash
   pip install pandas numpy scikit-learn matplotlib seaborn
 
+
+  
+
   ### Projeyi Çalıştırmak İçin
   ```bash
   jupyter notebook Untitled1.ipynb

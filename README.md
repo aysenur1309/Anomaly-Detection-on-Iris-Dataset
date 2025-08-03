@@ -13,21 +13,21 @@ Petal Genişliği (cm)
 Petal Uzunluk (cm).
 özellik ve değerleri bulunmaktadır.
 
-Bu proje, makine öğrenimi algoritmaları kullanarak anomali tespiti üzerine bir çalışma sunmaktadır. Projede, yaygın olarak kullanılan kümeleme yöntemlerinden K-Means ve DBSCAN algoritmaları kullanılarak veri setindeki aykırı değerler belirlenmiştir.
+Bu proje, **makine öğrenimi** algoritmaları kullanarak anomali tespiti üzerine bir çalışma sunmaktadır. Projede, yaygın olarak kullanılan kümeleme yöntemlerinden **K-Means** ve **DBSCAN algoritmaları** kullanılarak veri setindeki aykırı değerler belirlenmiştir.
 
 ### Kullanılan Teknolojiler
 
-- Python: Projenin temel programlama dilidir.
-- scikit-learn: Makine öğrenimi algoritmaları (K-Means, DBSCAN) için kullanılmıştır.
-- Pandas: Veri manipülasyonu ve analizi için kullanılmıştır.
-- NumPy: Sayısal işlemler ve veri yapıları için kullanılmıştır.
-- Matplotlib & Seaborn: Veri görselleştirme ve grafik oluşturma için kullanılmıştır.
+- **Python**: Projenin temel programlama dilidir.
+- **scikit-learn**: Makine öğrenimi algoritmaları (K-Means, DBSCAN) için kullanılmıştır.
+- **Pandas**: Veri manipülasyonu ve analizi için kullanılmıştır.
+- **NumPy**: Sayısal işlemler ve veri yapıları için kullanılmıştır.
+- **Matplotlib** & Seaborn: Veri görselleştirme ve grafik oluşturma için kullanılmıştır.
 
   ### 🛠️ Kurulum
   
-  '''bash
+  ```bash
   pip install pandas numpy scikit-learn matplotlib seaborn
 
   ### Projeyi Çalıştırmak İçin
-  '''bash
+  ```bash
   jupyter notebook Untitled1.ipynb
